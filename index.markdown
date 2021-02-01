@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: about
+layout: page
 ---
+
+Hi! My name is Austin, welcome to my personal page.
+
+![picture](media/me.jpg){:height="200px"}
