@@ -3,7 +3,7 @@ title: travel
 layout: page
 ---
 
-A record of the places I've been to outside of my home city.
+Some posts (and probably mainly lots of photos) of the cool places I've been to.
 
 ## posts
 
