@@ -5,7 +5,7 @@ categories:
 - travel
 ---
 
-My first job after graduating from UWA was at a consulting firm called [Accenture](https://www.accenture.com/au-en). In my time there I met so many great people - some who I now consider to be very close friends. We had a great Analyst group (basically graduates) and my first year there we organised our first road trip down to WA's best wine region ([Margaret River](https://www.margaretriver.com/)). We've done that just about every year since (with the exception of 2020 - fuck you COVID).
+My first job after graduating from UWA was at a consulting firm called [Accenture](https://www.accenture.com/au-en). In my time there I met so many great people - some who I now consider to be very close friends. We had a great Analyst group (basically graduates) and my first year there we organised our first road trip down to WA's best wine region ([Margaret River](https://www.margaretriver.com/)). We've done that just about every year since (with the exception of 2020)
 
 Each road trip follows the tried-and-tested formula from the first one. We get a nice big house down south (it's beautiful every time) for the weekend. We book bus to take us to a bunch of wineries/breweries in the region for the day. Below is one of us at [Swings and Roundabouts](https://www.swings.com.au/). It might even be the same driver every time. We drink on both nights, and take it a little easier on Sunday as we make our way back home. On the road trip, we play [odds](https://www.wikihow.com/Play-What-Are-the-Odds) and get each other to do silly stuff. And we're singing on the bus after about 3pm when we're all completely wrecked.
 
