@@ -1,7 +1,7 @@
 ---
 title: Mundaring Weir
 categories:
-- travel
+- photos
 layout: page
 ---
 
