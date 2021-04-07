@@ -17,7 +17,7 @@ On our first day we went to Sandy Cape, which also happens to be where Google Ma
 
 We went for a walk after that to the North side of the bay and found this incredible snorkelling spot with calm water and reef. Will have to remember to go there next time!
 
-![north_sandy_cape](https://www.dropbox.com/s/vvdfd2uk0aptij0/group.jpeg?raw=1)
+![north_sandy_cape](https://www.dropbox.com/s/vvdfd2uk0aptij0/north-sandy-cape.jpeg?raw=1)
 
 It was a fun evening too - had some hot cross buns (as you do) with some of Tekky's home made butter. Fish and chips at the camp site, more beer and card games ([exploding kittens](https://www.explodingkittens.com/) if you must know).
 
