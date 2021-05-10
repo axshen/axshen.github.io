@@ -7,12 +7,12 @@ layout: page
 
 Hey! Welcome to my personal page. Come see my photos and read about my life.
 
-I'm going to assume that if you're here you're probably a friend who I've shared the link with. In that case - you probably know a bit about me and what's going on in my life. That being said, people move around geographically (maybe even me one day), so there are some good friends that I just won't be able to see catch up with as often as I'd like. This can be a place you can go to for a quick status update, or detail if you want to read my posts. 
+Here's the summary of what's going on at the moment:
 
-Here's an up-to-date summary:
-
-* Currently living in Leederville (Perth, WA) in a beautiful townhouse with my even more beautiful girlfriend with a communal garden in our back yard. And so many plants.
-* I have an awesome job working as a research software engineer at [CSIRO](https://www.csiro.au/), designing the data post-processing platform for the [SKA](https://www.skatelescope.org/).
-* I play amateur soccer for [South Perth United FC](https://www.southperthunitedfc.com.au/) - my childhood club.
-* I love to travel (*naturally*).
-* I'm really into diving (scuba / free) and would love to become a better underwater photographer.
+* Living in Leederville (Perth, WA) in a townhouse with my beautiful girlfriend. We have a communal garden in our back yard and oh so many plants.
+* I have an awesome job working as a research software engineer at [CSIRO](https://www.csiro.au/), designing a data post-processing platform for the [SKA](https://www.skatelescope.org/) with the [AusSRC](https://aussrc.org/) team.
+* Playing amateur soccer for [South Perth United FC](https://www.southperthunitedfc.com.au/).
+* I love to [travel](/photos.html).
+* Working on reading more and taking more (and better) photos.
+* I am into diving (scuba / free).
+* Enjoy [my work](/work.html) so much I do related [personal projects](/tech.html) on the side.
