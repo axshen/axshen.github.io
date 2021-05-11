@@ -2,7 +2,7 @@
 title: Time series coffee chat
 layout: post
 categories:
-- tech
+- projects
 ---
 
 I had coffee with a friend of mine before work today and we talked about some of the work he is doing around time series data analysis (he is working on a forecasting model for commodity prices). It's super interesting stuff and I want to write a note on some of the we discussed ideas here. Hopefully I'll get the chance to learn more about this too, which will probably lead to more posts.

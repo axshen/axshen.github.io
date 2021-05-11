@@ -1,7 +1,7 @@
 ---
 title: A simple object detection program
 categories:
-- tech
+- projects
 layout: post
 ---
 
