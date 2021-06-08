@@ -9,7 +9,7 @@ layout: page
     <div>
         <h1>Hello and welcome</h1>
         <p>
-            This a personal website and space for me to share photos and projects I am working on (for work and in my spare time).
+            This a personal website and space for me to share photos or projects that I am working on (for work and in my spare time).
         </p>
         <p>
             If you want to get in touch you feel free to email me at 

@@ -17,7 +17,7 @@ A summary of my professional experience.
 
 #### [ICRAR](https://www.icrar.org/)
 
-[**Ram pressure stripping with CNNs**](https://academic.oup.com/mnras/article/497/4/5090/5881346?guestAccessKey=d35268ae-e0a2-4e0c-a356-824ead4ac621)
+[**Ram pressure stripping with CNNs**](https://arxiv.org/abs/2008.03460)
 
 Paper available at [MNRAS](https://academic.oup.com/mnras/article/497/4/5090/5881346?guestAccessKey=d35268ae-e0a2-4e0c-a356-824ead4ac621) or [arXiv](https://arxiv.org/abs/2008.03460).
 
