@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Video processing at scale
+title: Video data processing
 categories: 
 - projects
+description: A series of posts about the processing of video data. Starting with some simple MVPs and moving to more efficient computing techniques.
 ---
 
 I worked on a startup with a friend in 2018/2019 - we called the project [Pegasus](https://ageofempires.fandom.com/wiki/Pegasus). We worked for one of WA's largest property groups to measure the foot traffic going through and around two of their stores using CCTV footage. We're not working on it any more for various reasons, but it was an interesting technical problem that I can use as a starting point for exploring other ideas in computing.

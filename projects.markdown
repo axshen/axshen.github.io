@@ -4,5 +4,8 @@ layout: page
 ---
 
 {% for post in site.categories.projects %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <h4 style="display:inline"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+ <h5> {{ post.date | date_to_string }} </h5>
+ <p>{{ post.description }}</p>
+ <br/>
 {% endfor %}

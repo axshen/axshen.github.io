@@ -1,8 +1,9 @@
 ---
-title: Time series coffee chat
+title: Time series analysis
 layout: post
 categories:
 - projects
+description: I am interested in learning about how the analysis of time series data is performed. I hope to look at the modelling techniques, the assumptions behind these techniques and how the performance of the models is validated.
 ---
 
 I had coffee with a friend of mine before work today and we talked about some of the work he is doing around time series data analysis (he is working on a forecasting model for commodity prices). It's super interesting stuff and I want to write a note on some of the we discussed ideas here. Hopefully I'll get the chance to learn more about this too, which will probably lead to more posts.

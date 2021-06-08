@@ -1,8 +1,9 @@
 ---
-title: A simple object detection program
+title: Object detection with YOLOv4
 categories:
 - projects
 layout: post
+description: Using a pretrained object detection model for detecting people in video data with Python. First part of the video data processing posts.
 ---
 
 **Part 1 of [Video processing at scale](/tech/2021/03/09/video-processing-at-scale.html)**
