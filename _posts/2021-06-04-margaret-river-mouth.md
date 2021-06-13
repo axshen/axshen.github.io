@@ -5,11 +5,11 @@ categories:
 layout: page
 ---
 
-Unlike most other trip to Margaret River I had the day off completely to myself. Steph had work here attending a fire and biodiversery forum (so cool) so I decided to take an extra day off for the long weekend to join her. It's going into winter now (or [Makuru](http://www.bom.gov.au/iwk/nyoongar/makuru.shtml) according to the [Indigenous Australian seasons](http://www.bom.gov.au/iwk/climate_culture/Indig_seasons.shtml)) so it's pretty cold and not ideal snorkelling weather, even though that is normally my first preference. I decided to go for a kayak up the river and back instead. Fine I guess.
+Unlike most other trips to Margaret River I had the day off completely to myself. Steph had work there attending a fire and biodiversity forum (so cool) so I decided to take an extra day off for the long weekend to join her. It's going into [Makuru](https://www.derbalnara.org.au/six-seasons/makuru-jun-jul-), which is one of the [Noongar six seasons](http://www.bom.gov.au/iwk/climate_culture/Indig_seasons.shtml)), so it's pretty cold and not ideal snorkelling weather, which is normally my first preference of activity. I decided to go for a kayak up the river and back instead. Fine I guess.
 
 ![kayak](https://www.dropbox.com/s/9tap5qlkw48zhvx/river.jpg?raw=1)
 
-I was able to pick up the kayak just before mid-day. There's a cute [family business](http://mrsurf.com.au/hire-now/) that rents them for a couple of hours at a time. I'd walked past their kayaks last time I was here. There was bit of wind but other than that the weather is nice and the river is still. The lady who came to unlock the kayaks for me was great to talk with, and assured me that it was the perfect day for it. She ran into and old employee of hers who has a month-old baby now and it's such a wholesome encounter.
+I was able to pick up the kayak just before mid-day. There's a cute [family business](http://mrsurf.com.au/hire-now/) that rents them for a couple of hours at a time. I'd walked past their kayaks last time I was at the river mouth. There was bit of wind but other than that the weather is nice and the river is still. The lady who came to unlock the kayaks for me was great to talk with, and assured me that it was the perfect day for it. She ran into and old employee of hers who has a month-old baby now and it's such a wholesome encounter.
 
 The water is calm and the river is narrow to start with. I think the last time I went was an ocean kayaking experience so it is much easier by comparison. I decided to take it super easy and try to capture as much as I could with my camera.
 

@@ -3,6 +3,13 @@ title: photos
 layout: page
 ---
 
+<a href="/photos/2021/06/05/albany.html">![img](https://www.dropbox.com/s/i1s28z4wpml4hmw/cliff.jpg?raw=1)</a>
+
+### Albany 06/2021
+
+---
+<br />
+
 <a href="/photos/2021/06/04/margaret-river-mouth.html">![img](https://www.dropbox.com/s/o1x6wvsqvlvvogh/reflection.jpg?raw=1)</a>
 
 ### Margaret River 06/2021

@@ -6,7 +6,7 @@ layout: post
 description: Using a pretrained object detection model for detecting people in video data with Python. First part of the video data processing posts.
 ---
 
-**Part 1 of [Video processing at scale](/tech/2021/03/09/video-processing-at-scale.html)**
+**Part 1 of [Video processing at scale](/projects/2021/03/09/video-data-processing.html)**
 
 The starting point for the traffic counting software I wrote while working on Pegasus was object detection on batch video data. Let's start from there.
 

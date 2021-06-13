@@ -28,4 +28,4 @@ I'll keep this updated with what's going on in my life at the moment so you can 
 * I love to travel.
 * Working on reading more and taking more (and better) [photos](/photos.html).
 * I am into diving (scuba / free).
-* Enjoy [my work](/work.html) so much I do related [personal projects](/tech.html) on the side.
+* Enjoy [my work](/work.html) so much I do related [personal projects](/projects.html) on the side.

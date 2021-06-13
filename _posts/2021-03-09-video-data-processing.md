@@ -10,7 +10,7 @@ I worked on a startup with a friend in 2018/2019 - we called the project [Pegasu
 
 We only got to the stage of using an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product). It was hacky Python code using OpenCV, and you can basically find a tutorial for doing this anywhere on Medium. In recent work I've had the opportunity to focus on data engineering and high-performance computing, so it's a great time for me to revisit this with new tools.
 
-1. [A simple object detection program](/tech/2021/03/23/object-detection-program.html)
+1. [An object detection program](/projects/2021/03/23/object-detection-program.html)
 2. Profiling
 3. Coroutines
 4. Multithreading
