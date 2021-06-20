@@ -3,6 +3,13 @@ title: photos
 layout: page
 ---
 
+<a href="/photos/2021/06/20/omeo-shipwreck.html">![img](https://www.dropbox.com/s/7l1xhn8ltru8udx/coral.jpg?raw=1)</a>
+
+### Omeo Shipwreck 06/2021
+
+---
+<br />
+
 <a href="/photos/2021/06/05/albany.html">![img](https://www.dropbox.com/s/i1s28z4wpml4hmw/cliff.jpg?raw=1)</a>
 
 ### Albany 06/2021
