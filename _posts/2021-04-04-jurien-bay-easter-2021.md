@@ -30,3 +30,5 @@ We got the greasiest burger there and made our way back home. Thanks for the gre
 ![group_by_the_van](https://www.dropbox.com/s/vvdfd2uk0aptij0/group.jpeg?raw=1)
 
 **Photo credit**: Stephanie (babes) for basically all of the great shots: the group at North Sandy Cape, Jake's epic frisbee catch and walking back to the beach with our boards. You are so artistic.
+
+🌊🌊🌊

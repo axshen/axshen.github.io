@@ -24,3 +24,5 @@ The second day was very active. I've always wanted to go snorkelling at a rock p
 We planned to chill out there for a couple of hours and go to one of the nicest restaurants in the South West WA region. BUT... we dropped our car key in the rocks before the pool! So yeah, had to cancel the booking and scramble to find a locksmith. It was all fine in the end - we played [Mafia](https://en.wikipedia.org/wiki/Mafia_%28party_game%29) sitting in the shade of our ute, bought some food at a nearby general store and had a nice picnic on the rocks. Pretty wholesome after all :)
 
 ![rocky picnic](https://www.dropbox.com/s/za098adkzeyxw1f/IMG_0738.jpeg?raw=1)
+
+🌊🌊🌊

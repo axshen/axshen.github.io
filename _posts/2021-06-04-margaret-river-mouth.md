@@ -25,4 +25,6 @@ There was nobody else on the river that day so it was very peaceful. After that 
 
 Steph and I came back to the same river mouth later in the day and just chilled on the beach for the sunset. The sky was nice too. 
 
-![sky](https://www.dropbox.com/s/z8exraapjliq6wb/sky.jpg?raw=1)
+![sky](https://www.dropbox.com/s/z8exraapjliq6wb/sky.jpg?raw=1)]
+
+🌊🌊🌊
