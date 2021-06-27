@@ -1,38 +1,96 @@
 ---
 title: work
 layout: page
+mermaid: true
 ---
 
-A summary of my professional experience.
+You can already find a summary of my professional experience on [LinkedIn](https://www.linkedin.com/in/austin-shen/) and my CV on GitHub (probably not up to date), so it wouldn't make much sense for me to just repeat all of that here.
 
-### Research
+Instead, I want to show you a "skill tree" which reflects where I'm at with different computing concepts, tools or skills. I've used traffic light colours to indicate my level of competency with green to indicate I have ample experience, yellow to indicate I have some experience, and red to indicate I have little experience. Default blue is something I have just added or am unsure as to where to place it, but hopefully it will be coloured next time you're here.
 
-#### [CSIRO](https://www.csiro.au)
+### Computing
 
-[**AusSRC**](https://aussrc.org)
+At the moment the nodes are ideas that are relevant to my current role. It seems pretty arbitrary what I've chosen to include here and what I've omitted. Always open to feedback so feel free to get in touch if you believe there is something I change.
 
-<!-- ![aussrc_team](https://www.dropbox.com/s/yu7wllkkrryhdc4/AusSRC.PNG?raw=1) -->
+<div class="mermaid">
 
-[**Oceans and Atmosphere**](https://www.csiro.au/en/about/people/business-units/Oceans-and-Atmosphere)
+graph LR;
+    classDef red fill:red;
+    classDef yellow fill:yellow;
+    classDef green fill:lime;
 
-#### [ICRAR](https://www.icrar.org/)
+    subgraph CS THEORY
+        cs1(Computer architecture)
+        cs2(Networking)
+        cs3(Data structures)
+        cs4(Algorithms)
+        cs5(Database theory)
+        cs6(Distributed systems)
+    end
 
-[**Ram pressure stripping with CNNs**](https://arxiv.org/abs/2008.03460)
+    subgraph PROGRAMMING
+        p1(C/C++)
+        p2(Python)
+        p3(Haskell)
+        p4(R)
+        p5(Infrastructure as code)
+        p6(Javascript)
+        p7(Golang)
+    end
 
-Paper available at [MNRAS](https://academic.oup.com/mnras/article/497/4/5090/5881346?guestAccessKey=d35268ae-e0a2-4e0c-a356-824ead4ac621) or [arXiv](https://arxiv.org/abs/2008.03460).
+    subgraph SOFTWARE
+        se1(DevOps)
+        se2(Public cloud)
+        se3(Containerisation)
+        se4(Kubernetes)
+        se5(Git)
+    end
 
-**MSc**
+    subgraph WEB
+        w1(Frontend)
+        w2(APIs)
+        w3(Security)
+        w4(Databases)
+    end
 
----
+    subgraph HPC
+        hpc1(OpenMP)
+        hpc2(CUDA)
+        hpc3(Slurm)
+    end
 
-### Startups
+    cs1 --> p1
+    p2 -- Django, Flask --> w2
+    p6 -- React --> w1
+    se4 --> w2
+    p1 --> hpc1
+    p1 --> hpc2
+    se3 -- Docker, Singularity --> hpc3
 
-#### [Chironix](https://www.chironix.com/)
+    class cs1 yellow;
+    class cs2 yellow;
+    class cs3 red;
+    class cs4 red;
+    class cs5 red;
+    class p1 yellow;
+    class p2 green;
+    class p3 red;
+    class p4 yellow;
+    class p5 yellow;
+    class p6 yellow;
+    class se1 yellow;
+    class se2 yellow;
+    class se3 green;
+    class se4 yellow;
+    class se5 green;
+    class w1 yellow;
+    class w2 green;
+    class w3 red;
+    class w4 yellow;
+</div>
 
-#### [Formalytics](https://formalytics.io/) / [myKicks](https://mykicks.io/)
+### References
 
----
+* [Teach yourself CS](https://teachyourselfcs.com/)
 
-### Consulting
-
-#### [Accenture](https://www.accenture.com/au-en)
+\+ personal experience
