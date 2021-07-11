@@ -5,7 +5,7 @@ categories:
 layout: page
 ---
 
-I got early this *very* cold Saturday morning in the middle of Makuru to go for a snorkel with some buds at the Omeo Shipwreck. In the warmer weather Omeo is very busy and I've been told it's best to go early to avoid the crowds and to ensure the visibility is decent. Turns out it's not so much an issue at this time of year. When we arrived there was maybe 2-3 groups of people out in the water, all in wetsuits and some going for a dive around the [Coogee Maritime Trail](https://www.cockburn.wa.gov.au/Recreation-and-Attractions/Trails-Tracks-and-Lookouts/Coogee-Maritime-Trail). 
+I got up early this *very* cold Saturday morning in the middle of Makuru to go for a snorkel with some buds at the Omeo Shipwreck. In the warmer weather Omeo is very busy and I've been told it's best to go early to avoid the crowds and to ensure the visibility is decent. Turns out it's not so much an issue at this time of year. When we arrived there was maybe 2-3 groups of people out in the water, all in wetsuits and some going for a dive around the [Coogee Maritime Trail](https://www.cockburn.wa.gov.au/Recreation-and-Attractions/Trails-Tracks-and-Lookouts/Coogee-Maritime-Trail). 
 
 The air temperature this morning was just below 10 degrees. On the drive over, wearing layers, uggs and in the warm car air-conditioning, we discussed how the water temperature is *much* warmer than the air temperature. You know, stuff about how the water here is carried by the Leeuwin down from the warm tropics. And how the rashie top that Jerry brought would probably be fine. Lol.
 
