@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Custom Jekyll Theme
+category: diving
 author: Austin Shen
 ---
 
