@@ -2,6 +2,9 @@ collections:
   categories:
     output: true
 
+plugins:
+  - jekyll-feed
+
 # Setting front matter defaults
 defaults:
   - scope:
