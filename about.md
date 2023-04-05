@@ -2,9 +2,7 @@
 layout: default
 title: About
 ---
-<a href="/assets/images/dolphins.jpg">
-  <img class='image' style='padding-bottom: 20px;' src="/assets/images/dolphins.jpg">
-</a>
+<img class='image' style='padding-bottom: 20px;' src="/assets/images/portrait.jpg">
 
 My name is Austin and I live in Perth, Western Australia.
 

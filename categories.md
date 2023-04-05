@@ -2,13 +2,13 @@
 layout: default
 title: Categories
 ---
-<h1>Categories</h1>
+# Categories
 
-<ul>
+<div class='gallery'>
   {% for category in site.categories %}
-    <li>
-      <h3><a href="{{  category.url }}">{{  category.title }}</a></h3>
-      <p>{{ category.content | markdownify }}</p>
-    </li>
+    <a style='color: black; text-decoration: none;' href='{{  category.url }}'>
+      <img src='{{ category.image }}'>
+      <h2>{{ category.title }}</h2>
+    </a>
   {% endfor %}
-</ul>
+</div>
