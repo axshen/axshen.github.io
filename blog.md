@@ -2,13 +2,17 @@
 layout: default
 title: Blog
 ---
-
 # Posts
 
-<ul>
+<div class='gallery'>
   {% for post in site.posts %}
-    <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    </li>
+    <a style='color: black; text-decoration: none;' href='{{ post.url }}'>
+      <img src='{{ post.image }}'>
+      <p>{{ post.date | date_to_string }}: {{ post.title }}</p>
+    </a>
   {% endfor %}
+</div>
+
+<ul>
+  
 </ul>
