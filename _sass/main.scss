@@ -22,6 +22,14 @@
   margin: 40px 0 40px 0;
 }
 
+@media (max-width: 1000px) {
+  .gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 10px 0 10px 0;
+  }
+}
+
 .gallery * {
   width: 100%;
   float: center;
