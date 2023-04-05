@@ -2,8 +2,15 @@
 layout: default
 title: Home
 ---
-# Hello there
+I am writing some stuff and want to share some pictures in the form of a gallery
 
-My name is Austin and this is my personal web page
+<div class='gallery'>
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+    <img src="https://www.dropbox.com/s/yiq0uzwr2c1x93t/me.jpg?raw=1">
+</div>
 
-I will share photos of my travels and things I have been working on.
+Now I will continue writing more about the content.

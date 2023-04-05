@@ -1,3 +1,45 @@
+// -----------------------------------------------------------------
+// Template
+
+.container {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 50px;
+}
+
+// -----------------------------------------------------------------
+// Photos
+
+.image {
+  width: 100%;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  margin: 20px 0 20px 0;
+}
+
+.gallery > img {
+  width: 100%;
+}
+
+// -----------------------------------------------------------------
+// Menu
+
+.menu_bar {
+  position: fixed;
+}
+
+.menu_item {
+  font-size: large;
+  margin: 10px 10px;
+}
+
 .current {
   color: green;
 }
+
+// -----------------------------------------------------------------
