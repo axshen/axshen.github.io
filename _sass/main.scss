@@ -3,9 +3,22 @@
 
 .container {
   width: 60%;
-  margin-left: 20%;
-  margin-right: 20%;
+  max-width: 1500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 50px;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    width: 80%;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+  }
 }
 
 // -----------------------------------------------------------------
@@ -13,13 +26,17 @@
 
 .image {
   width: 100%;
+  max-width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gallery {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 30px;
-  margin: 40px 0 40px 0;
+  margin: 30px 0 50px 0;
 }
 
 @media (max-width: 1000px) {
@@ -31,6 +48,26 @@
 }
 
 .gallery * {
+  width: 100%;
+  float: center;
+}
+
+.two_column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin: 30px 0 50px 0;
+}
+
+@media (max-width: 1000px) {
+  .two_column {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 10px 0 10px 0;
+  }
+}
+
+.two_column * {
   width: 100%;
   float: center;
 }

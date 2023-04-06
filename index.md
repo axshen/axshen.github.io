@@ -2,38 +2,22 @@
 layout: default
 title: Home
 ---
-I am writing some stuff and want to share some pictures in the form of a gallery
+### Life update
 
-<div class='gallery' style='align-items: center;'>
-  <div><h1>This is a test</h1></div>
-  <div><h1>To determine how content sticks in this format</h1></div>
-  <div>
-    <img src="/assets/images/aurora.jpg">
-    <p>How will this turn out?</p>
-  </div>
-  <img src="/assets/images/dolphins.jpg">
-  <div>
-    <img src="/assets/images/aurora.jpg">
-    <p>Does this look strange?</p>
-  </div>
-  <div>
-    <img src="/assets/images/dolphins.jpg">
-    <p>And what if I do this?</p>
-  </div>
-</div>
+(06/04/2023)
 
-Now I will continue writing more about the content. But now I can also have this other format for the gallery where things are not aligned in the centre
+I've just updated the style of this blog to focus more on the photos I take rather than the text that I write. Currently in Helsinki, Finland enjoying some relaxing time with Ruby before heading down to the Balkans (Greece, Montenegro, Croatia) to meet with Jerry. Still working through migrating old posts to this current blog so they will show up quietly.
+
+### Recent posts
 
 <div class='gallery'>
-  <img src="/assets/images/dolphins.jpg">
-  <div>
-    <img src="/assets/images/aurora.jpg">
-    <p>Does this look strange?</p>
-  </div>
-  <div>
-    <img src="/assets/images/dolphins.jpg">
-    <p>And what if I do this?</p>
-  </div>
+  {% for post in site.posts %}
+    <a style='color: black; text-decoration: none;' href='{{ post.url }}'>
+      <img src='{{ post.image }}'>
+      <p>{{ post.date | date_to_string }}: {{ post.title }}</p>
+    </a>
+    {% if forloop.index >= 3 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 </div>
-
-Yes this will be good for my blog yes.

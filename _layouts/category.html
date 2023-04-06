@@ -9,6 +9,6 @@ layout: default
 <ul>
   {% assign filtered_posts = site.posts | where: 'category', page.name %}
   {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.date | date_to_string }}: {{ post.title }}</a></li>
   {% endfor %}
 </ul>
