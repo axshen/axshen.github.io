@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tao Expedition - Philippines
+title: TAO Expedition, Philippines
 category: [asia]
 author: Austin Shen
 image: https://www.dropbox.com/s/9ld1zrdfiiaglcy/DSCF6576.jpg?raw=1

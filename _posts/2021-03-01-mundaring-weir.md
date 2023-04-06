@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mundaring Weir Hike
+title: Mundaring Weir Hike, WA
 category: australia
 author: Austin Shen
 image: https://www.dropbox.com/s/dm7zkovqkhjui2f/IMG_0406.jpeg?raw=1

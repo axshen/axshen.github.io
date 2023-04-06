@@ -6,7 +6,7 @@ title: Home
 
 (06/04/2023)
 
-I've just updated the style of this blog to focus more on the photos I take rather than the text that I write. Currently in Helsinki, Finland enjoying some relaxing time with Ruby before heading down to the Balkans (Greece, Montenegro, Croatia) to meet with Jerry. Still working through migrating old posts to this current blog so they will show up quietly.
+I've updated the style of this blog to focus more on the photos I take rather than the text that I write. Currently in Helsinki, Finland enjoying some relaxing time with Ruby before heading to the Balkans (Greece, Montenegro, Croatia) with Jerry. Still working through migrating old posts so they will show up quietly.
 
 ### Recent posts
 
