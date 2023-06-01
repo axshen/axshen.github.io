@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<img class='image' style='padding-bottom: 20px;' src="/assets/images/portrait.jpg">
+<img class='image' style='max-width: 600px; padding-bottom: 20px;' src="/assets/images/portrait.jpg">
 
 My name is Austin and I am from Perth, Western Australia.
 
@@ -10,4 +10,4 @@ I am currently travelling in Europe and Asia while taking a gap year from work. 
 
 <h3 style='text-align: center; padding-top: 10px;'>Contact</h3>
 
-<p style='text-align: center;'>email: austinxshen@gmail.com</p>
+<p style='text-align: center;'>email: <a href="mailto:austinxshen@gmail.com">austinxshen@gmail.com</a></p>

@@ -4,9 +4,9 @@ title: Home
 ---
 ### Life update
 
-(06/04/2023)
+(29/05/2023)
 
-I've updated the style of this blog to focus more on the photos I take rather than the text that I write. Currently in Helsinki, Finland enjoying some relaxing time with Ruby before heading to the Balkans (Greece, Montenegro, Croatia) with Jerry. Still working through migrating old posts so they will show up quietly.
+Lots of travel over the last month and a half, so lots of new photos to share! Started with a trip with Jerry to Balkans and Greece, then made my way back to Helsinki by bus through Slovenia, Germany, Austria, Hungary, Poland, and the Baltics. Alps with Ruby and Budapest with Kitty along the way. Now back in Helsinki, had a chill time at Mökki, just relaxing for the rest of the month.
 
 ### Recent posts
 
