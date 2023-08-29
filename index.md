@@ -4,9 +4,11 @@ title: Home
 ---
 ### Life update
 
-(29/05/2023)
+(29/08/2023)
 
-Lots of travel over the last month and a half, so lots of new photos to share! Started with a trip with Jerry to Balkans and Greece, then made my way back to Helsinki by bus through Slovenia, Germany, Austria, Hungary, Poland, and the Baltics. Alps with Ruby and Budapest with Kitty along the way. Now back in Helsinki, had a chill time at Mökki, just relaxing for the rest of the month.
+A short break in Europe travel for Ruby's cousin's wedding in Indonesia. Was so lucky the last month to have mum to travel with through Italy and France, as well as my favourite aunt and her mum (ima). Finally a moment to catch up on messages, misc life stuff, and to catch up with friends and family (via videocalls) while I plan the rest of the year. Feels like I'm on the tail end of the gap year now with the last holidays in Europe, and my return trip to Asia, all organised.
+
+Trips to come: Spain and Portugal with Taf, Mel and Tim, with the siblings in Germany and the Netherlands, and a short stint back in Helsinki before travelling together to China with the rest of the family!
 
 ### Recent posts
 
