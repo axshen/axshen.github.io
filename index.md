@@ -4,11 +4,11 @@ title: Home
 ---
 ### Life update
 
-(29/08/2023)
+(05/12/2023)
 
-A short break in Europe travel for Ruby's cousin's wedding in Indonesia. Was so lucky the last month to have mum to travel with through Italy and France, as well as my favourite aunt and her mum (ima). Finally a moment to catch up on messages, misc life stuff, and to catch up with friends and family (via videocalls) while I plan the rest of the year. Feels like I'm on the tail end of the gap year now with the last holidays in Europe, and my return trip to Asia, all organised.
+Almost home! Finished up travelling through Europe some number of months ago now, flew to China to be with family, solo travelled through other parts of China/HK, and now in Singapore which is my last stop before flying back to Perth.
 
-Trips to come: Spain and Portugal with Taf, Mel and Tim, with the siblings in Germany and the Netherlands, and a short stint back in Helsinki before travelling together to China with the rest of the family!
+我也在学中文。开始会写一点给我亲戚读！
 
 ### Recent posts
 
