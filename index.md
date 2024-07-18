@@ -4,11 +4,9 @@ title: Home
 ---
 ### Life update
 
-(05/12/2023)
+(15/04/2024)
 
-Almost home! Finished up travelling through Europe some number of months ago now, flew to China to be with family, solo travelled through other parts of China/HK, and now in Singapore which is my last stop before flying back to Perth.
-
-我也在学中文。开始会写一点给我亲戚读！
+Back home in Perth, and back into the swing of things. Picked up soccer again this season at SPUFC, picked up swimming with the local masters club and have settled into the work routine. Life is good. 
 
 ### Recent posts
 
