@@ -4,9 +4,16 @@ title: Home
 ---
 ### Life update
 
-(15/04/2024)
+(21/11/2024)
 
-Back home in Perth, and back into the swing of things. Picked up soccer again this season at SPUFC, picked up swimming with the local masters club and have settled into the work routine. Life is good. 
+A bi-annual update. I am currently in Malta, and have found myself with a bit of time to think about this blog again. A lot has changed in the last half-year and I feel like a lot will change in the near future as well while I try figure a few things out. The main highlights that aren't blog posts yet:
+
+* Kev and Em got married and had the most beautiful three-day celebration
+* Eddie came to visit Perth for a month
+* Family from China and Melbourne came to visit for a week
+* and various gigs, movie nights, and small trips down south in between the big ones.
+
+Life is still good.
 
 ### Recent posts
 
