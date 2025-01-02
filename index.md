@@ -4,16 +4,16 @@ title: Home
 ---
 ### Life update
 
-(21/11/2024)
+(02/01/2025)
 
-A bi-annual update. I am currently in Malta, and have found myself with a bit of time to think about this blog again. A lot has changed in the last half-year and I feel like a lot will change in the near future as well while I try figure a few things out. The main highlights that aren't blog posts yet:
+Happy new year! Writing this in holiday mode after a wonderful Christmas and New Years break. Just a week off to enjoy friends, family, hobbies, to go away, and to relax. A full week where time felt like it had moved slower. It has been a big year of ups and downs, but after reflecting I can say it's been net great and I feel very lucky for the life that I get to live.
 
-* Kev and Em got married and had the most beautiful three-day celebration
-* Eddie came to visit Perth for a month
-* Family from China and Melbourne came to visit for a week
-* and various gigs, movie nights, and small trips down south in between the big ones.
+Some new things to (hopefully) come this year:
 
-Life is still good.
+* Training for a half-ironman
+* The Americas
+* Australia's East Coast, for how long?
+* 30
 
 ### Recent posts
 
