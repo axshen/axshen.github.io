@@ -4,16 +4,14 @@ title: Home
 ---
 ### Life update
 
-(02/01/2025)
+(03/03/2025)
 
-Happy new year! Writing this in holiday mode after a wonderful Christmas and New Years break. Just a week off to enjoy friends, family, hobbies, to go away, and to relax. A full week where time felt like it had moved slower. It has been a big year of ups and downs, but after reflecting I can say it's been net great and I feel very lucky for the life that I get to live.
+We're coming to the end now already of another amazing and full summer. Lots of time ourdoors (though frankly not enough time at the beach), some new hobbies, and new important people in my life. Feeling pretty good about things right now, curious about how the rest of the year will play out. It seems to be filling out already with some big rocks!
 
-Some new things to (hopefully) come this year:
-
-* Training for a half-ironman
-* The Americas
-* Australia's East Coast, for how long?
-* 30
+* Still training for a half-ironman (though I've decided to take it easier)
+* The big Americas trip has been postponed, with poor Jerry's recent major injury. We'll do something smaller instead!
+* Australia's East Coast plans still in the works
+* 30 (coming in hot...)
 
 ### Recent posts
 
