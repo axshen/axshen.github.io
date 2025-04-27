@@ -4,14 +4,14 @@ title: Home
 ---
 ### Life update
 
-(03/03/2025)
+(27/04/2025)
 
-We're coming to the end now already of another amazing and full summer. Lots of time ourdoors (though frankly not enough time at the beach), some new hobbies, and new important people in my life. Feeling pretty good about things right now, curious about how the rest of the year will play out. It seems to be filling out already with some big rocks!
+It's getting cold again in Perth! Went for a ride this morning and damn my fingers felt it. I've just returned from a 3 week trip over to the East coast and honestly very glad to be home. Excited to settle back into the nice routine that I had before, and to sleep in my own bed. 30 is already here apparently :)
 
-* Still training for a half-ironman (though I've decided to take it easier)
-* The big Americas trip has been postponed, with poor Jerry's recent major injury. We'll do something smaller instead!
-* Australia's East Coast plans still in the works
-* 30 (coming in hot...)
+* Kitty has just come to visited for Olivia's wedding!
+* Half ironman training is still going, but has been slow with the recent holiday and mild ankle injury from soccer
+* Australia's East Coast plans still in the works (check!)
+* Looking forward to seeing a few more friends come back and visit Perth soon
 
 ### Recent posts
 

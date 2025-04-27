@@ -35,8 +35,8 @@
 .gallery {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 30px;
-  margin: 30px 0 50px 0;
+  gap: 40px;
+  margin: 40px 0 50px 0;
 }
 
 @media (max-width: 1000px) {
@@ -88,3 +88,10 @@
 }
 
 // -----------------------------------------------------------------
+// Images
+
+.figure * {
+  margin: 10px;
+  border-color: black;
+  border: 2px;
+}
