@@ -4,14 +4,20 @@ title: Home
 ---
 ### Life update
 
-(27/04/2025)
+(18/10/2025)
 
-It's getting cold again in Perth! Went for a ride this morning and damn my fingers felt it. I've just returned from a 3 week trip over to the East coast and honestly very glad to be home. Excited to settle back into the nice routine that I had before, and to sleep in my own bed. 30 is already here apparently :)
+Summer is on its way back and I think it will be a good one :) Lots of fun things to share in the last few months
 
-* Kitty has just come to visited for Olivia's wedding!
-* Half ironman training is still going, but has been slow with the recent holiday and mild ankle injury from soccer
-* Australia's East Coast plans still in the works (check!)
-* Looking forward to seeing a few more friends come back and visit Perth soon
+* First trip to the great white north!
+* Ironman training in full swing, less than 2 months to go before the big race
+* Eddie is back in Perth and we've all been having a blast
+* A new camera to play with (film), see below a snippet from trips with our boy back
+
+<div class='gallery' style='align-items: center'>
+  <img src='https://www.dropbox.com/scl/fi/ivevsogz5kv0iypejlx04/F1340036.JPG?rlkey=jvg53oigk1ikwm8hm1ktyguyy&raw=1'>
+  <img src='https://www.dropbox.com/scl/fi/0umo3k3wgqis49qug95as/F1340033.JPG?rlkey=7wzjokjuolmdif1z7pj88455d&raw=1'>
+  <img src='https://www.dropbox.com/scl/fi/rm8eqgcisnb0y6sbiy65t/F1340031.JPG?rlkey=60ty3fxzic6ofxnczgnizls6l&raw=1'>
+</div>
 
 ### Recent posts
 
