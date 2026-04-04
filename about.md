@@ -2,11 +2,13 @@
 layout: default
 title: About
 ---
-<img class='image' style='max-width: 600px; padding-bottom: 20px;' src="/assets/images/portrait.jpg">
+<img class='image' style='max-width: 400px; padding-bottom: 20px;' src="/assets/images/portrait.jpg">
 
-My name is Austin and I am from Perth, Western Australia.
+My name is Austin and I am from Perth, Western Australia. Here's what it's like in summer by the beach (one of my favourite spots)
 
-This is a personal blog for me to share my photos and stories of the wonderful things that are happening in my life, mostly relating to travel and leisure.
+<img class='image' style='max-width: 600px; padding-bottom: 20px;' src="/assets/images/cott.jpeg">
+
+This is a personal blog to share photos, travel, and stories from my awesome life.
 
 --
 

@@ -4,20 +4,13 @@ title: Home
 ---
 ### Life update
 
-(18/10/2025)
+(04/04/2026)
 
-Summer is on its way back and I think it will be a good one :) Lots of fun things to share in the last few months
+Time is moving faster now and I'm getting older and have less energy. Might have trained too hard at the end of last year oops! But life is still great. Summer is already over, but it's been jam packed already
 
-* First trip to the great white north!
-* Ironman training in full swing, less than 2 months to go before the big race
-* Eddie is back in Perth and we've all been having a blast
-* A new camera to play with (film), see below a snippet from trips with our boy back
-
-<div class='gallery' style='align-items: center'>
-  <img src='https://www.dropbox.com/scl/fi/ivevsogz5kv0iypejlx04/F1340036.JPG?rlkey=jvg53oigk1ikwm8hm1ktyguyy&raw=1'>
-  <img src='https://www.dropbox.com/scl/fi/0umo3k3wgqis49qug95as/F1340033.JPG?rlkey=7wzjokjuolmdif1z7pj88455d&raw=1'>
-  <img src='https://www.dropbox.com/scl/fi/rm8eqgcisnb0y6sbiy65t/F1340031.JPG?rlkey=60ty3fxzic6ofxnczgnizls6l&raw=1'>
-</div>
+* Kelsey is living here! Visa granted, exam 1/2 passed, things looking up
+* Soccer season is starting up again, still biking heaps (power stats coming soon)
+* We just got back from a great holiday in China. Photos coming soon (I am so far behind on sharing things here).
 
 ### Recent posts
 
